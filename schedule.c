@@ -1,8 +1,6 @@
 //
-// 2020-2 operating system
-// CPU Schedule Simulator Homework
-// Student Number : B511062
-// Name : 박동준
+// operating system
+// CPU Schedule Simulator
 //
 #include <stdio.h>
 #include <stdlib.h>
@@ -548,6 +546,5 @@ int main(int argc, char *argv[]) {
 	initProcTable();
 	procExecSim(schFunc);
 	printResult();
-	
 }
 
