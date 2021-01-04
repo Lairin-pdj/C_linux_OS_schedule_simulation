@@ -1,6 +1,7 @@
 //
 // operating system
 // CPU Schedule Simulator
+// make by Park Dongjun
 //
 #include <stdio.h>
 #include <stdlib.h>
